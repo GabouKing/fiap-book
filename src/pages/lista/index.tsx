@@ -6,7 +6,7 @@ export default function Lista(){
     return(
         <div>
             <Header />
-            <Button nameButton={"TESTE"} />
+            <Button nameButton={"TESTE"}/>
         </div>
     )
 }
